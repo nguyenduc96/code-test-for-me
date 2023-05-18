@@ -5,43 +5,86 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c3ad922-9e7e-42b5-bbd7-a44b7f8688c4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/AbstractFactoryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/AnimalsType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/ColorBlue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/ColorRed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/SupperFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/model/CatColorBlue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/model/CatColorRed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/model/PigColorBlue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/model/PigColorRed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/sub_factory/CatFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/sub_factory/FurnitureAbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/sub_factory/PigFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/annotation/JSONElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/annotation/JsonException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/annotation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/annotation/config/JSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/annotation/model/P1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/annotation/model/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/builder/Area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/builder/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/builder/BuilderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/builder/ConcreteBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/builder/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/factory_method/AnimalFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/factory_method/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/factory_method/AnimalsEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/factory_method/Chickens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/factory_method/Dogs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/factory_method/FactoryMethodMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/singleton/SingletonMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/3/03db520d4ddd7f68e4eb1b20977604f16da532a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05a9a91de8b02fa2717cc58cbed87d8eea8504c7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0cb0875d0b103631a862c073037171381801ab5e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/168ea53dddf2df158e775bd250b939ef25d182fe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/6/16e7e0ba06279f425c95e3e367cff6544a4ef5a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1df10b972b6084e24328b836dce27839aec8a6db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/e/1e4d3841b2c6c1ca8cb58a4396580f6de8101c83" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/4/24c2fb8e555707ea40c39b50f23c413157af2ac2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d12b9d2181e09081e4722c02cd610a94e58178a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/41211df57de9796f2c438af7a01cdbe91cb3e173" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4e61de631c790e0e2aa02f1f27a0670e3a0cf6de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/580040762bb0011d78965bf922ba6e8872dc942d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/9/59c77995818f980aca08ba04b25636e9517aefb6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/66d4126a87c85814b5bd6d934e7ca79acf6d4541" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/0/70281632eb462f09af53a4be3bd6cb69382352f1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/1/71f5b70bc61a5d4b4ab9867b8155653ceca1fe98" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/2/723ea3fa60a7ca5252b32d536c85cc950fbfbf12" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/3/735d3bfb4110ecab1a2b26cdcfb7da7946d7dc88" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a4e7c2a443f9cb8c3c697f3630a963dd464ee3d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/7/977b8c0c5580d6ebec2d51518ec82370bf3174d6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/8/983b632e4268a5b6724770fb1b85f270a631ce4f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a41a649f614ef0fefd6672ad94af4aa9d244451c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/6/a6197b0c510ea90400b0a13382a5bd4e8c0397de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/ab7e06d052e45e0ba29fc7595163522cadb4337a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/b/aba4e282606d581dd52f295e3b1c3389971d59a1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/1/b1c01fa2b68dc16472e8778ffecdf9d72fd26196" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b357478c62ce1c2759309a0970822dbadd125ca7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/3/b3e8660f5c98dccb8b69badf0a0935387e49b4f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/c/bcef9bd129562f3d85b494c8a0442550b20f80e6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d701fd1247f73a9f30d74c39fea51b6ea4cc3eaf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/a/dab0688e09112c089d324f83c732a1911900b53c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/5/f5744f5e65071f0d2901cd8a8b28d4d5514d212c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/a/fa5290a69dcd017cc467d4c5fa47fd3c4350b16e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc239efacc4424dd7ec7ec4365387ca91b98044e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ClassAA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/FNInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/annotation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/db/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/structual/adapter/EnglishAdaptee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/structual/adapter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/structual/adapter/TranslatorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pattern/structual/adapter/VietnameseTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pdf/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/AbstractFactoryMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/AbstractFactoryMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/AnimalsType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/AnimalsType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/ColorBlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/ColorBlue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/ColorRed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/ColorRed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/SupperFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/SupperFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/model/CatColorBlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/model/CatColorBlue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/model/CatColorRed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/model/CatColorRed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/model/PigColorBlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/model/PigColorBlue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/model/PigColorRed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/model/PigColorRed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/sub_factory/CatFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/sub_factory/CatFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/sub_factory/FurnitureAbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/sub_factory/FurnitureAbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/abstract_factory/sub_factory/PigFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/abstract_factory/sub_factory/PigFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/annotation/JSONElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotation/JSONElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/annotation/JsonException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotation/JsonException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/annotation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/annotation/config/JSON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotation/config/JSON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/annotation/model/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotation/model/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/builder/Area.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/builder/Area.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/builder/Builder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/builder/Builder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/builder/BuilderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/builder/BuilderMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/builder/ConcreteBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/builder/ConcreteBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/builder/Director.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/builder/Director.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/factory_method/AnimalFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/factory_method/AnimalFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/factory_method/Animals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/factory_method/Animals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/factory_method/AnimalsEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/factory_method/AnimalsEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/factory_method/Chickens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/factory_method/Chickens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/factory_method/Dogs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/factory_method/Dogs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/factory_method/FactoryMethodMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/factory_method/FactoryMethodMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/singleton/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/singleton/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pattern/singleton/SingletonMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pattern/creational/singleton/SingletonMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +95,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="AnnotationType" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -77,74 +120,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "MavenSettings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenDatabaseViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/DUC-NGUYEN/WORK/demo&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;93f1bbc8a288882d03013077445e1cec&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="pattern.abstract_factory.model" />
       <recent name="pattern.abstract_factory.sub_factory" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="AbstractFactoryMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.abstract_factory.AbstractFactoryMain" />
+  <component name="RunManager" selected="Application.db.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="code-test-for-me" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern.abstract_factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BuilderMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.builder.BuilderMain" />
-      <module name="code-test-for-me" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern.builder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FactoryMethodMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.factory_method.FactoryMethodMain" />
-      <module name="code-test-for-me" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern.factory_method.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.annotation.Main" />
-      <module name="code-test-for-me" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern.annotation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -162,13 +171,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="db.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="db.Main" />
+      <module name="code-test-for-me" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pdf.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pdf.Main" />
+      <module name="code-test-for-me" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pdf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Main" />
+      <module name="code-test-for-me" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.BuilderMain" />
-        <item itemvalue="Application.SingletonMain" />
-        <item itemvalue="Application.AbstractFactoryMain" />
-        <item itemvalue="Application.FactoryMethodMain" />
+        <item itemvalue="Application.db.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +224,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660271130213</updated>
-      <workItem from="1660271131889" duration="16227000" />
+      <workItem from="1660271131889" duration="22300000" />
+      <workItem from="1660527467408" duration="275000" />
+      <workItem from="1660699963328" duration="923000" />
+      <workItem from="1660711431073" duration="1689000" />
+      <workItem from="1660794272083" duration="2061000" />
+      <workItem from="1660878125909" duration="741000" />
+      <workItem from="1660880691422" duration="5478000" />
+      <workItem from="1661132549699" duration="21000" />
+      <workItem from="1661140044367" duration="67000" />
+      <workItem from="1661310079905" duration="4462000" />
+      <workItem from="1661322956991" duration="3135000" />
+      <workItem from="1661395817045" duration="1220000" />
+      <workItem from="1661755353349" duration="761000" />
+      <workItem from="1661916651111" duration="1202000" />
+      <workItem from="1663123809028" duration="1387000" />
+      <workItem from="1663900684680" duration="2832000" />
+      <workItem from="1664261354071" duration="144000" />
+      <workItem from="1664267854876" duration="624000" />
+      <workItem from="1664779962618" duration="951000" />
+      <workItem from="1664851917081" duration="846000" />
+      <workItem from="1664935619395" duration="40000" />
+      <workItem from="1664957805158" duration="757000" />
+      <workItem from="1665019656319" duration="71000" />
+      <workItem from="1665482088018" duration="1457000" />
+      <workItem from="1666078878244" duration="1527000" />
+      <workItem from="1666862212208" duration="902000" />
+      <workItem from="1666925790725" duration="593000" />
+      <workItem from="1667374092000" duration="654000" />
+      <workItem from="1667441801279" duration="4283000" />
+      <workItem from="1667526133063" duration="591000" />
+      <workItem from="1667790235613" duration="6164000" />
+      <workItem from="1667814947918" duration="1301000" />
+      <workItem from="1667877142978" duration="1339000" />
+      <workItem from="1667989343130" duration="806000" />
+      <workItem from="1668390915335" duration="3232000" />
+      <workItem from="1669631808863" duration="1237000" />
+      <workItem from="1669684892425" duration="2004000" />
+      <workItem from="1669772800194" duration="592000" />
+      <workItem from="1675392726268" duration="652000" />
     </task>
     <servers />
   </component>
@@ -197,5 +279,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk-11.0.15/lib/src.zip!/java.sql/java/sql/DriverManager.java</url>
+          <line>217</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
